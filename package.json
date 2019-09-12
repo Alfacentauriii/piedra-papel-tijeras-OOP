@@ -1,0 +1,16 @@
+{
+  "name": "piedra-papel-tijeras-oop",
+  "version": "1.0.0",
+  "description": "Juego piedra papel tijeras. Jugador 1 siempre elige piedra, jugador 2 elige aleatoriamente. Se realizan 100 rondas, al final de la partida se muestra el número de victorias de cada jugador y el número de empates.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "piedra",
+    "papel",
+    "tijeras"
+  ],
+  "author": "Noelia MH",
+  "license": "ISC"
+}

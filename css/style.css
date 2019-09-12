@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:400,700');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Exo', sans-serif;
+
+    background: rgb(66,0,92);
+    background: linear-gradient(90deg, rgba(66,0,92,1) 0%, rgba(163,13,158,1) 37%, rgba(0,212,255,1) 100%); 
+}
+/*
+.col {
+    
+    
+    background-image:url("../img/wallpaper.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+}
+*/
